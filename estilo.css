@@ -1,0 +1,42 @@
+#parrafo{
+    color: royalblue;
+    font-size: 43px;
+    text-shadow: salmon;
+}
+#parrafo2{
+    color: salmon;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+}
+
+#final{
+    background-color: tomato;
+    font-style: italic;
+    font-size: 20px;
+}
+.link{
+    background-color: yellowgreen;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#body{
+    background-color: gold;
+    margin: 5px;
+    padding: 10px;
+}
+
+.div{
+    padding: 20px 10px;
+}
+nav ol{
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+    background-color: tomato;
+    width: 500px;
+}
+#df2{
+    background-color: yellow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
