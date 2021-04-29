@@ -20,7 +20,7 @@ $(document).ready(function(){
     $("#cambiacolor").mouseenter(function(){
         $("#cambiacolor").css("backgroundcolor","red"); 
     $("#cambiacolor").mouseleave(function(){
-        $("#cambiacolor").css("backgroundcolor","blue"); 
+        $("#cambiacolor").css("background-color","blue"); 
     });
     });
 
